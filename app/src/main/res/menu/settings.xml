@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/btnSettingsInterface" android:title="Interface settings"/>
+    <item android:id="@+id/btnSettingsSound" android:title="Sound"/>
+    <item android:id="@+id/btnSettingsLanguage" android:title="Language"/>
+    <item android:id="@+id/btnSettingsFeedBack" android:title="feedback"/>
+    <item android:id="@+id/btnSettingsShare" android:title="Share"/>
+</menu>

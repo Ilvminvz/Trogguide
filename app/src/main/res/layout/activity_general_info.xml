@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:orientation="vertical"
+    tools:context="com.example.kenny.trogguide.GeneralInfo">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnGenCallPolice"
+        android:id="@+id/btnGenCallPolice"
+        style="@style/Button"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnGenCallFire"
+        android:id="@+id/btnGenCallFire"
+        style="@style/Button"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnGenCallAmb"
+        android:id="@+id/btnGenCallAmb"
+        style="@style/Button"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnGenFindRoute"
+        android:id="@+id/btnGenFindRoute"
+        style="@style/Button" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnGenFindBusTer"
+        android:id="@+id/btnGenFindBus"
+        style="@style/Button"/>
+
+</LinearLayout>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Trogguide</string>
+
+    <string name="tvhomeWelcome">
+       <i> \"       ...your transport our concern\"</i>
+        \n\n
+        Welcome to Trogguide,\n
+        It provides the you with information on the transportation in Accra.
+        \n
+    </string>
+    <string name="btnHomeGenInfo">General Information</string>
+    <string name="btnHomeDriInfo">Driver Information</string>
+    <string name="btnHomeCommInfo">Commuter Information</string>
+    <string name="btnHomeSetting">Settings</string>
+
+    <string name="btnDriLessTaf">Less Traffic Route</string>
+    <string name="btnDriDemand">Vehicle Demand Routes</string>
+    <string name="tvDriTips">Please put on your sit belt.</string>
+
+    <string name="btnCommFindBus">Find Bus</string>
+    <string name="btnCommFindLoc">Find Location</string>
+    <string name="btnCommRequestBus">Request for bus</string>
+
+    <string name="btnGenCallPolice">Contact Ghana Police Service</string>
+    <string name="btnGenCallFire">Contact Ghana National Fire Service</string>
+    <string name="btnGenCallAmb">Contact Ghana National Ambulance Service</string>
+    <string name="btnGenFindRoute">Find Route</string>
+    <string name="btnGenFindBusTer">Find Bus Terminal</string>
+    <string name="title_activity_find_location">Map</string>
+
+
+</resources>
